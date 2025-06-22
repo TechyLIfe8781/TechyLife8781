@@ -1,32 +1,56 @@
-# Hi there 👋 I'm [Your Name]
+# Developer Profile – [Your Name]
 
-I’m a passionate developer focused on writing clean, efficient, and scalable code.
-
-## 🚀 About Me
-
-- 🌱 Currently learning: [e.g., Django, React]
-- 💼 Actively looking for: Internships / Freelance opportunities
-- 🧠 Interests: Web development, open-source, and personal growth
-- 📫 How to reach me: [your-email@example.com]
-
-## 💻 Skills
-
-- HTML, CSS, JavaScript
-- Python, Java, C++
-- Git, GitHub, VS Code
-
-## 🧰 Projects
-
-- **Project One** – A simple task manager using HTML, CSS & JS  
-- **Project Two** – Django-based blog with user authentication  
-- **Project Three** – Weather app using public API
-
-## 📈 GitHub Overview
-
-- ✅ I regularly commit code and contribute to repositories  
-- 🗂️ View my pinned projects for highlights  
-- 🔭 Check my repositories to see what I’m building
+Welcome to my GitHub profile. I’m a dedicated software developer who loves turning ideas into code.
 
 ---
 
-Thanks for visiting my profile!
+## About Me
+
+I specialize in:
+- Web Application Development  
+- Backend Services  
+- Personal Automation Projects
+
+Currently open to:
+- Remote internships  
+- Part-time freelance gigs  
+- Open-source collaboration
+
+---
+
+## Tech Stack
+
+Languages:
+- JavaScript | Python | C++
+
+Frameworks:
+- React | Node.js | Django
+
+Tools:
+- Git | GitHub | Postman | VS Code
+
+---
+
+## Selected Projects
+
+**1. Expense Tracker**  
+A personal budgeting app with monthly reports and dashboard analytics.
+
+**2. Portfolio Website**  
+Minimalist portfolio to showcase projects and contact details.
+
+**3. Blog CMS**  
+A full-stack blog application with content editor and user login.
+
+---
+
+## Contact
+
+Email: your.email@example.com  
+LinkedIn: linkedin.com/in/yourprofile  
+Portfolio: yourportfolio.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> – Cory House
